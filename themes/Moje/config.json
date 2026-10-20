@@ -1,0 +1,19 @@
+{
+    "dock_apps":  [
+                      "org.smarttube.stable",
+                      "com.stremio.one",
+                      "com.netflix.ninja",
+                      "cz.petr.iptv"
+                  ],
+    "hidden_apps":  [
+                        "com.mediatek.wwtv.tvcenter",
+                        "com.mitv.gallery"
+                    ],
+    "columns":  4,
+    "rows_below_dock":  0,
+    "reduced_motion":  false,
+    "background_color":  "#000000",
+    "wallpaper":  true,
+    "wallpaper_rotation_minutes":  30,
+    "wallpaper_dim":  0
+}

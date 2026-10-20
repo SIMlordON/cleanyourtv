@@ -1,0 +1,9 @@
+android.autoinstalls.config.google.gtvpai
+com.google.android.partnersetup
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.play.games
+com.google.android.youtube.tvmusic
+com.tcl.gallery
+com.tcl.ui_mediaCenter
+com.tcl.UpdatePeripheral

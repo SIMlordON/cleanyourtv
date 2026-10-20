@@ -1,0 +1,2 @@
+com.google.android.apps.tv.dreamx
+com.google.android.tungsten.setupwraith
